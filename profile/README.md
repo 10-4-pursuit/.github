@@ -9,5 +9,5 @@ This GitHub organization is where you will find content and exercises for this c
 You may find the following links useful:
 
 - [Our Canvas Course]()
-- [INSTRUCTOR-A's Office Hours Sign-up]()
+- [Steven's Office Hours, M-W 10PM - 12AM](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0wC64MXNu6TEk3wqeKvp6iagOdrfThyQ40CIRifWqcqpSvGYtKbKRDS0cn0ivx9NH0ftbPa07Q)
 - [INSTRUCTOR-B's Office Hours Sign-up]()
