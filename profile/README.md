@@ -10,4 +10,4 @@ You may find the following links useful:
 
 - [Our Canvas Course]()
 - [Steven's Office Hours, M-W 10PM - 12AM](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0wC64MXNu6TEk3wqeKvp6iagOdrfThyQ40CIRifWqcqpSvGYtKbKRDS0cn0ivx9NH0ftbPa07Q)
-- [INSTRUCTOR-B's Office Hours Sign-up]()
+- [Maliq's Office Hours, M-W 1PM - 3PM](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0jjsiIfUSCoisVEE009pAElSGFgD3S5nkRjv8u5wZKdgNTTNnsKRDpplXz1whT4j7t4bYIu8Yv)
